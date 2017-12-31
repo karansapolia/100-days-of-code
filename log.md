@@ -1,21 +1,19 @@
 # 100 Days Of Code - Log
 
-### Day 0: Dec 31, 2017
+### Day 0: Dec 30, 2017
 ##### ()
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Created a Gatsby.js blog 
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: I really struggled with React and Gatsby Modules, but, overall, I feel like I am slowly getting better at it. React is still new for me, but I managed to figure out some basic functionality.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: [dryKiss blog](http://karansapolia.github.io)
 
 
-### Day 1: June 27, Monday
+### Day 1: Dec 31, 2017
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Successfully deployed the Gatsby.js blog I created yesterday
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** Figuring out how to deploy in Github Pages was something. A simple push does not enable the React style and components. Had to deploy through npm and use some pre-defined scripts like 'gh-pages', provided by Gatsby itself.
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link(s) to work** [dryKiss blog](http://karansapolia.github.io)
